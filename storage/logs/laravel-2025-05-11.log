@@ -1,0 +1,3741 @@
+[2025-05-11 09:11:38] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "a544e6d4-2b9c-4143-8517-70ff9934828a",
+    "socket": null
+}  
+[2025-05-11 09:11:38] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=20",
+    "idNotification": "a195d292-9e98-4d56-a2e1-dbbba7c41e54",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:11:56] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "a7f9844c-63e9-441e-aeee-834d3c197a5b",
+    "socket": null
+}  
+[2025-05-11 09:11:56] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=20",
+    "idNotification": "4d72fa80-bd4a-4e47-89eb-cc53362daf9b",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:12:11] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "52a24bec-fcee-4ff1-b761-a0a32fdbbfc2",
+    "socket": null
+}  
+[2025-05-11 09:12:11] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=20",
+    "idNotification": "3bf91669-a93d-4a8c-94d5-28a116849223",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:13:31] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "8980b9ae-9834-43f5-ab23-3f3949e62121",
+    "socket": null
+}  
+[2025-05-11 09:13:31] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=20",
+    "idNotification": "69e2d134-9b15-4d53-a4a6-2b659079e4b9",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:21:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "846a6e7a-df32-4243-b758-5842af57e26b",
+    "socket": null
+}  
+[2025-05-11 09:21:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=20",
+    "idNotification": "acee6fd4-bc85-4147-ba88-f0b2303524ea",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:21:57] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "6957431d-4a15-41f8-ad4f-79100c312176",
+    "socket": null
+}  
+[2025-05-11 09:21:57] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=20",
+    "idNotification": "3a8442d3-bd5e-4b32-87fa-b67a0daf9d41",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:22:11] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "77cb155e-eb2a-4789-948b-42192136384d",
+    "socket": null
+}  
+[2025-05-11 09:22:11] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=20",
+    "idNotification": "e624b749-efbd-4a36-b653-358fe7f2a518",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:23:23] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=19",
+    "idNotification": "fb9ae814-c0a8-476e-9967-16c3858aa994",
+    "socket": null
+}  
+[2025-05-11 09:23:23] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=19",
+    "idNotification": "a1488865-3766-4995-9864-582c07be03c8",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:23:36] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=19",
+    "idNotification": "13668735-b2b1-4c61-8fb2-aa8df47d1985",
+    "socket": null
+}  
+[2025-05-11 09:23:36] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=19",
+    "idNotification": "58c93402-bd55-4fcf-b1d8-31141aa7e501",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:24:17] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Beat the Heat was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=17",
+    "idNotification": "dfe443ce-d9ae-4acc-9922-3ba11e6e7f2f",
+    "socket": null
+}  
+[2025-05-11 09:24:17] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Beat the Heat was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=17",
+    "idNotification": "9bd3a7ca-bdf9-43f9-8d05-c310aac58733",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:25:12] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Family Fun in Paradise was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=18",
+    "idNotification": "a5e20234-bbc3-401a-9780-290bdf5399f9",
+    "socket": null
+}  
+[2025-05-11 09:25:12] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Family Fun in Paradise was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=18",
+    "idNotification": "0f96be4a-182a-43d4-b9de-240d22ec2f47",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:26:04] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=16",
+    "idNotification": "ddcbbb3c-5ec8-4b9b-89c7-c838cd1278b3",
+    "socket": null
+}  
+[2025-05-11 09:26:04] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=16",
+    "idNotification": "c97af902-0226-4ce9-bd8b-db10626ac269",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:26:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=16",
+    "idNotification": "97558d23-38f8-4959-9fb1-a00c9818e076",
+    "socket": null
+}  
+[2025-05-11 09:26:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=16",
+    "idNotification": "eab17bfe-5922-4f3d-bbe0-e7fe2dc83c96",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 09:26:22] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=16",
+    "idNotification": "e2d2a2b2-e968-4015-960a-1fb30e1befe9",
+    "socket": null
+}  
+[2025-05-11 09:26:22] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=16",
+    "idNotification": "0d784927-bee1-42c3-ba56-5569c115eef7",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-11 10:21:09] production.ERROR: Your configuration files are not serializable. {"exception":"[object] (LogicException(code: 0): Your configuration files are not serializable. at /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigCacheCommand.php:73)
+[stacktrace]
+#0 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Console\\ConfigCacheCommand->handle()
+#1 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#2 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#3 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate\\Container\\Container->call(Array)
+#6 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#7 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#8 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(67): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Symfony\\Component\\Console\\Output\\NullOutput))
+#9 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(40): Illuminate\\Console\\Command->runCommand('config:cache', Array, Object(Symfony\\Component\\Console\\Output\\NullOutput))
+#10 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php(35): Illuminate\\Console\\Command->callSilent('config:cache')
+#11 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/View/Components/Task.php(37): Illuminate\\Foundation\\Console\\OptimizeCommand->Illuminate\\Foundation\\Console\\{closure}()
+#12 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/View/Components/Factory.php(58): Illuminate\\Console\\View\\Components\\Task->render('config', Object(Closure))
+#13 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php(37): Illuminate\\Console\\View\\Components\\Factory->__call('task', Array)
+#14 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php(240): Illuminate\\Foundation\\Console\\OptimizeCommand->Illuminate\\Foundation\\Console\\{closure}(Object(Closure), 'config')
+#15 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php(37): Illuminate\\Support\\Collection->each(Object(Closure))
+#16 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Console\\OptimizeCommand->handle()
+#17 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#19 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#20 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#21 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate\\Container\\Container->call(Array)
+#22 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#23 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#24 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Application.php(1096): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#25 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Foundation\\Console\\OptimizeCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#26 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#27 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#28 /Users/santoshshinde/Downloads/travinan11may/artisan(38): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#29 {main}
+
+[previous exception] [object] (Error(code: 0): Call to undefined method Illuminate\\Validation\\Rules\\Password::__set_state() at /Users/santoshshinde/Downloads/travinan11may/bootstrap/cache/config.php:967)
+[stacktrace]
+#0 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigCacheCommand.php(69): require()
+#1 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Console\\ConfigCacheCommand->handle()
+#2 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#4 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#5 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#6 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate\\Container\\Container->call(Array)
+#7 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#8 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#9 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(67): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Symfony\\Component\\Console\\Output\\NullOutput))
+#10 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Concerns/CallsCommands.php(40): Illuminate\\Console\\Command->runCommand('config:cache', Array, Object(Symfony\\Component\\Console\\Output\\NullOutput))
+#11 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php(35): Illuminate\\Console\\Command->callSilent('config:cache')
+#12 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/View/Components/Task.php(37): Illuminate\\Foundation\\Console\\OptimizeCommand->Illuminate\\Foundation\\Console\\{closure}()
+#13 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/View/Components/Factory.php(58): Illuminate\\Console\\View\\Components\\Task->render('config', Object(Closure))
+#14 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php(37): Illuminate\\Console\\View\\Components\\Factory->__call('task', Array)
+#15 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php(240): Illuminate\\Foundation\\Console\\OptimizeCommand->Illuminate\\Foundation\\Console\\{closure}(Object(Closure), 'config')
+#16 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php(37): Illuminate\\Support\\Collection->each(Object(Closure))
+#17 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Console\\OptimizeCommand->handle()
+#18 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#19 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#20 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#21 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Container/Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#22 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Command.php(211): Illuminate\\Container\\Container->call(Array)
+#23 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#24 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#25 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Application.php(1096): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#26 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Foundation\\Console\\OptimizeCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#27 /Users/santoshshinde/Downloads/travinan11may/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#28 /Users/santoshshinde/Downloads/travinan11may/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#29 /Users/santoshshinde/Downloads/travinan11may/artisan(38): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#30 {main}
+"} 
+[2025-05-11 12:09:53] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Taj Exotica was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=44",
+    "idNotification": "de5dda84-8959-4aa5-a700-4232fc9297e0",
+    "socket": null
+}  
+[2025-05-11 12:09:53] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Taj Exotica was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/hotel?id=44",
+    "idNotification": "30d2dbe5-2d2b-4836-8f24-7d3dd6400b3a",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:10:13] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Parian Holiday Villas was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=43",
+    "idNotification": "dff7e6e1-aaee-4647-91ac-fc571ae3c632",
+    "socket": null
+}  
+[2025-05-11 12:10:13] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Parian Holiday Villas was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/hotel?id=43",
+    "idNotification": "31d18e54-bcc7-4457-b820-433a019663cf",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:10:21] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "EnVision Hotel was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=41",
+    "idNotification": "9e2850d2-456c-4ca0-82a9-f0b90bdbabb4",
+    "socket": null
+}  
+[2025-05-11 12:10:21] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "EnVision Hotel was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/hotel?id=41",
+    "idNotification": "54289ef5-a19b-4e41-a3e2-209e088c81d1",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:10:29] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Stanford was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=37",
+    "idNotification": "b4ffc990-bf3a-41d9-9636-8c4a6011d64a",
+    "socket": null
+}  
+[2025-05-11 12:10:29] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Hotel Stanford was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/hotel?id=37",
+    "idNotification": "8f30b1f0-b432-4563-a836-1701329952d5",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:11:05] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel WBF Hommachi was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=42",
+    "idNotification": "66595162-71eb-4bb8-a145-1b9534a0fd27",
+    "socket": null
+}  
+[2025-05-11 12:12:46] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Crowne Plaza Hotel was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=36",
+    "idNotification": "c3b1269c-c736-4dd5-ba71-77b474c57e15",
+    "socket": null
+}  
+[2025-05-11 12:13:04] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Castello Casole Hotel was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=20",
+    "idNotification": "f2097f58-3ab5-4895-a0b9-9914ae0cfccd",
+    "socket": null
+}  
+[2025-05-11 12:13:17] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "The May Fair Hotel was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=11",
+    "idNotification": "1fcfe8d4-ef02-4065-a386-80f23464b721",
+    "socket": null
+}  
+[2025-05-11 12:13:31] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Stewart Hotel was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=22",
+    "idNotification": "82c7c8a4-7c0c-42a7-87fe-06fc64e6d183",
+    "socket": null
+}  
+[2025-05-11 12:14:10] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=15",
+    "idNotification": "1625a66b-33f2-46ca-b75d-68f056160ffb",
+    "socket": null
+}  
+[2025-05-11 12:14:29] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Eastern Discovery was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=7",
+    "idNotification": "b1efb990-43b9-485e-b982-a2fd6ba87d12",
+    "socket": null
+}  
+[2025-05-11 12:14:44] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Giverny and Versailles Small Group Day Trip was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=10",
+    "idNotification": "c2bcee5e-baff-4ea0-bb2c-a0272c3747cd",
+    "socket": null
+}  
+[2025-05-11 12:15:05] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "DUPLEX GREENWICH was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/space?id=5",
+    "idNotification": "67463272-c1d8-485d-89ce-a9657792f37a",
+    "socket": null
+}  
+[2025-05-11 12:15:18] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "BEST OF WEST VILLAGE was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/space?id=4",
+    "idNotification": "1f3f1146-20a2-4346-bf5d-473931194894",
+    "socket": null
+}  
+[2025-05-11 12:15:41] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "BEAUTIFUL LOFT was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/space?id=3",
+    "idNotification": "be231f69-7d17-46ff-aa0f-4a71e6911347",
+    "socket": null
+}  
+[2025-05-11 12:16:08] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "BEAUTIFUL LOFT was updated to Draft by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/space?id=3",
+    "idNotification": "636709ad-5eaa-4201-97a0-ae0445de85ef",
+    "socket": null
+}  
+[2025-05-11 12:17:39] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Audi A6 was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/car?id=18",
+    "idNotification": "2fc5d7f7-c486-45aa-8097-cbbce63834ad",
+    "socket": null
+}  
+[2025-05-11 12:17:39] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Audi A6 was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/car?id=18",
+    "idNotification": "61036c93-ee8c-4d4d-9313-de91b5d1085c",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:17:45] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Green Ocean 1 was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat?id=18",
+    "idNotification": "be9f4c38-90a8-42d0-a4fa-159c5d8148a5",
+    "socket": null
+}  
+[2025-05-11 12:17:45] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Green Ocean 1 was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/boat?id=18",
+    "idNotification": "99582310-cc6a-485f-86fe-617d218c3320",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:17:53] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Chidya Tapu Beach was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/event?id=15",
+    "idNotification": "c1224a7e-b5a3-465d-a89a-0c91f94fd7ae",
+    "socket": null
+}  
+[2025-05-11 12:17:53] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Chidya Tapu Beach was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/event?id=15",
+    "idNotification": "82b30d3c-7228-4c0d-a4f1-df7d337298a3",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:22:27] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "e05529cf-93c6-4475-a93c-27227af8f8d4",
+    "socket": null
+}  
+[2025-05-11 12:22:27] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=20",
+    "idNotification": "72b96a63-2a71-4f6c-bff7-06c43404658c",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:22:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=19",
+    "idNotification": "55913cd1-a390-4c29-9881-220b25540e82",
+    "socket": null
+}  
+[2025-05-11 12:22:37] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=19",
+    "idNotification": "bb575d76-d9a5-4bd9-8521-abcde03c82b6",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:22:48] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Family Fun in Paradise was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=18",
+    "idNotification": "f3bb026e-002c-4618-93a2-a5f30f52c0a4",
+    "socket": null
+}  
+[2025-05-11 12:22:48] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Family Fun in Paradise was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=18",
+    "idNotification": "542af8db-c663-401b-a03e-57d26a52f3f9",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:22:58] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Beat the Heat was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=17",
+    "idNotification": "7beb9e50-7914-489b-8f3d-75de9613ab68",
+    "socket": null
+}  
+[2025-05-11 12:22:58] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Beat the Heat was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=17",
+    "idNotification": "6febc853-c3a2-4b36-9b84-5793ef55dc99",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:28:57] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "BMW was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/car?id=17",
+    "idNotification": "9bda40b3-91af-408a-9a36-b5a3d30f059d",
+    "socket": null
+}  
+[2025-05-11 12:28:57] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "BMW was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/car?id=17",
+    "idNotification": "8f47b036-969d-48ba-8b58-c4e24d7501b9",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:29:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Makruzz Gold was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat?id=17",
+    "idNotification": "574ab24c-5fa5-4dcb-92d3-c2110c760ff3",
+    "socket": null
+}  
+[2025-05-11 12:29:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Makruzz Gold was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/boat?id=17",
+    "idNotification": "74c708cf-9c81-4e69-8189-b0fe07bf2e56",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:29:10] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Makruzz was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat?id=16",
+    "idNotification": "67032c82-f271-4b54-8699-b2e7ceb358cf",
+    "socket": null
+}  
+[2025-05-11 12:29:10] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Makruzz was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/boat?id=16",
+    "idNotification": "092e1ef1-6d81-48fa-a3f0-8e3b02a77d50",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:29:16] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Nautica was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat?id=15",
+    "idNotification": "818c9c4a-21fe-4dda-9fb2-6432e318bb23",
+    "socket": null
+}  
+[2025-05-11 12:29:16] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Nautica was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/boat?id=15",
+    "idNotification": "5a7de952-643d-47db-b371-ad3d7b6ed9c5",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:29:21] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "ITT MAJESTIC was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat?id=14",
+    "idNotification": "50b96581-94d1-4717-97be-2ca7c8964cde",
+    "socket": null
+}  
+[2025-05-11 12:29:21] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "ITT MAJESTIC was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/boat?id=14",
+    "idNotification": "db96a626-c232-4b0c-92e2-81c6de182389",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:29:28] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Scuba Diving in Andaman Islands was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/event?id=14",
+    "idNotification": "910ceef9-7cc5-4077-ab58-13a11bed0f02",
+    "socket": null
+}  
+[2025-05-11 12:29:28] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Scuba Diving in Andaman Islands was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/event?id=14",
+    "idNotification": "3f37a868-f5b2-4e2c-80d6-d21117287050",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:29:36] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Beach Festival was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"burbdesign\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/event?id=13",
+    "idNotification": "2e325a2f-75a3-4aa0-9487-17b0bf44477e",
+    "socket": null
+}  
+[2025-05-11 12:29:36] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Beach Festival was updated to Publish by burbdesign",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/user\/event?id=13",
+    "idNotification": "2940ef63-0e3d-4703-845c-193300db05c9",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 12:35:17] production.DEBUG: From: Traviaana <support@traviaana.com>
+To: pulkithbiz@gmail.com
+Subject: Pulkith Dhingra has registered.
+MIME-Version: 1.0
+Date: Sun, 11 May 2025 12:35:17 +0000
+Message-ID: <f821a5aa649c3fc488fea8721a2ab04c@traviaana.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5191FA;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Traviaana</h1>
+        </div>
+    </div>
+</div>
+
+                <div class="b-container">
+        <div class="b-panel">
+            <h1 style="text-align: center">Welcome!</h1>
+                    <h3>Hello Pulkith Dhingra</h3>
+                    <p>Thank you for signing up with Go Trip! We hope you enjoy your time with us.</p>
+                    <p>Regards,</p>
+                    <p>Go Trip</p>
+        </div>
+    </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-05-11 12:35:17] production.DEBUG: From: Traviaana <support@traviaana.com>
+To: support@traviaana.com
+Subject: Pulkith Dhingra has registered.
+MIME-Version: 1.0
+Date: Sun, 11 May 2025 12:35:17 +0000
+Message-ID: <e0a50764460456bb92ea0d5acfcf45b7@traviaana.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5191FA;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Traviaana</h1>
+        </div>
+    </div>
+</div>
+
+                <div class="b-container">
+        <div class="b-panel">
+            <h3>Hello Administrator</h3>
+                    <p>We have new registration</p>
+                    <p>Full name: Pulkith Dhingra</p>
+                    <p>Email: pulkithbiz@gmail.com</p>
+                    <p>Regards,</p>
+                    <p>Go Trip</p>
+        </div>
+    </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-05-11 12:35:17] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Pulkith Dhingra has been registered",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/www.traviaana.com\/images\/avatar.png\" alt=\"Pulkith Dhingra\">",
+    "link": "https:\/\/www.traviaana.com\/admin\/module\/user?s=9",
+    "idNotification": "1825c089-48d2-4add-b95d-ecc499b39f23",
+    "socket": null
+}  
+[2025-05-11 12:37:15] production.DEBUG: From: Traviaana <support@traviaana.com>
+To: support@traviaana.com
+Subject: [Traviaana] An user submitted verification data
+MIME-Version: 1.0
+Date: Sun, 11 May 2025 12:37:15 +0000
+Message-ID: <90f78702b6f6c4d0b63c5bbb40ee9c59@traviaana.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5191FA;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Traviaana</h1>
+        </div>
+    </div>
+</div>
+
+                <div class="b-container">
+        <div class="b-panel">
+            <h1>Hello Administrator</h1>
+
+            <p>An user has been submit their verification data.</p>
+            <p>Name: Traviaana</p>
+
+            <p>You can approved the request here: <a href="https://traviaana.com/admin/module/user/verification/detail/6">View request</a></p>
+
+            <br>
+            <p>Regards,<br>Traviaana</p>
+        </div>
+    </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-05-11 12:37:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has asked for verification",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/user\/verification",
+    "idNotification": "2c5b9f3a-58be-4d24-ac04-56593387b348",
+    "socket": null
+}  
+[2025-05-11 12:55:44] production.DEBUG: From: Traviaana <support@traviaana.com>
+To: support@traviaana.com
+Subject: [Traviaana] New booking has been made
+MIME-Version: 1.0
+Date: Sun, 11 May 2025 12:55:44 +0000
+Message-ID: <33308cef0c7f10c690be86ba622e32ac@traviaana.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5191FA;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Traviaana</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello Administrator</strong></h3>
+                    <p>New booking has been made</p>
+                
+            <div class="b-panel-title">Flight information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#4</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Paid</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Flight name</td>
+            <td class="val">
+                <a href="#">Vistara</a>
+            </td>
+
+        </tr>
+        <tr>
+                    </tr>
+                    <tr>
+                <td class="label">Start date</td>
+                <td class="val">05/01/2025 06:40</td>
+            </tr>
+            <tr>
+                <td class="label">End date:</td>
+                <td class="val">
+                    05/01/2025 08:55
+                </td>
+            </tr>
+                                
+                        <tr>
+            <td class="label">Pricing</td>
+            <td class="val">
+                <table class="pricing-list" width="100%">
+                    <tr>
+                        <td class="label">
+                            Rental price
+                        </td>
+                        <td class="val">
+                                                        <strong> ₹4299</strong>
+                        </td>
+                    </tr>
+                    
+                    
+                                                                                    <tr>
+                            <td class="label">
+                                Coupon
+                            </td>
+                            <td class="val">
+                                -₹5000
+                            </td>
+                        </tr>
+                                    </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://www.traviaana.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">Pulkith</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">Dhingra</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">pulkithbiz@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">9380956202</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val">GOAL GHAR</div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val">PHONIEX BAY</div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val">PORT BLAIR</div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val">ANDAMAN &amp; NICOBAR ISLANDS</div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val">744101</div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">India</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="b-panel">
+    <div class="b-panel-title">Tickets / Guests Information:</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+                        <div class="info-first-name b-tr">
+                <div class="label">Guest #1:  </div>
+                <div class="val text-left" style="text-align: left">
+                    First Name:  <strong></strong><br>
+                    Last Name:  <strong></strong><br>
+                    Email:  <strong></strong><br>
+                    Phone:  <strong></strong><br>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+    </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-05-11 12:55:44] production.DEBUG: From: Traviaana <support@traviaana.com>
+To: Traviaana <admin@traviaana.com>
+Subject: [Traviaana] Your service got new booking
+MIME-Version: 1.0
+Date: Sun, 11 May 2025 12:55:44 +0000
+Message-ID: <557f44421f552d758faba6a6ca35e41a@traviaana.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5191FA;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Traviaana</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello Pulkit</strong></h3>
+                    <p>Your service has new booking</p>
+                
+            <div class="b-panel-title">Flight information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#4</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Paid</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Flight name</td>
+            <td class="val">
+                <a href="#">Vistara</a>
+            </td>
+
+        </tr>
+        <tr>
+                    </tr>
+                    <tr>
+                <td class="label">Start date</td>
+                <td class="val">05/01/2025 06:40</td>
+            </tr>
+            <tr>
+                <td class="label">End date:</td>
+                <td class="val">
+                    05/01/2025 08:55
+                </td>
+            </tr>
+                                
+                        <tr>
+            <td class="label">Pricing</td>
+            <td class="val">
+                <table class="pricing-list" width="100%">
+                    <tr>
+                        <td class="label">
+                            Rental price
+                        </td>
+                        <td class="val">
+                                                        <strong> ₹4299</strong>
+                        </td>
+                    </tr>
+                    
+                    
+                                                                                    <tr>
+                            <td class="label">
+                                Coupon
+                            </td>
+                            <td class="val">
+                                -₹5000
+                            </td>
+                        </tr>
+                                    </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://www.traviaana.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">Pulkith</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">Dhingra</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">pulkithbiz@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">9380956202</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val">GOAL GHAR</div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val">PHONIEX BAY</div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val">PORT BLAIR</div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val">ANDAMAN &amp; NICOBAR ISLANDS</div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val">744101</div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">India</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="b-panel">
+    <div class="b-panel-title">Tickets / Guests Information:</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+                        <div class="info-first-name b-tr">
+                <div class="label">Guest #1:  </div>
+                <div class="val text-left" style="text-align: left">
+                    First Name:  <strong></strong><br>
+                    Last Name:  <strong></strong><br>
+                    Email:  <strong></strong><br>
+                    Phone:  <strong></strong><br>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+    </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-05-11 12:55:44] production.DEBUG: From: Traviaana <support@traviaana.com>
+To: pulkithbiz@gmail.com
+Subject: Thank you for booking with us
+MIME-Version: 1.0
+Date: Sun, 11 May 2025 12:55:44 +0000
+Message-ID: <51caa6eb346c95085b7a71114e72780d@traviaana.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5191FA;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Traviaana</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello Pulkith</strong></h3>
+                    <p>Thank you for booking with us. Here are your booking information:</p>
+                
+            <div class="b-panel-title">Flight information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#4</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Paid</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Flight name</td>
+            <td class="val">
+                <a href="#">Vistara</a>
+            </td>
+
+        </tr>
+        <tr>
+                    </tr>
+                    <tr>
+                <td class="label">Start date</td>
+                <td class="val">05/01/2025 06:40</td>
+            </tr>
+            <tr>
+                <td class="label">End date:</td>
+                <td class="val">
+                    05/01/2025 08:55
+                </td>
+            </tr>
+                                
+                        <tr>
+            <td class="label">Pricing</td>
+            <td class="val">
+                <table class="pricing-list" width="100%">
+                    <tr>
+                        <td class="label">
+                            Rental price
+                        </td>
+                        <td class="val">
+                                                        <strong> ₹4299</strong>
+                        </td>
+                    </tr>
+                    
+                    
+                                                                                    <tr>
+                            <td class="label">
+                                Coupon
+                            </td>
+                            <td class="val">
+                                -₹5000
+                            </td>
+                        </tr>
+                                    </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://www.traviaana.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">Pulkith</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">Dhingra</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">pulkithbiz@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">9380956202</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val">GOAL GHAR</div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val">PHONIEX BAY</div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val">PORT BLAIR</div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val">ANDAMAN &amp; NICOBAR ISLANDS</div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val">744101</div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">India</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="b-panel">
+    <div class="b-panel-title">Tickets / Guests Information:</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+                        <div class="info-first-name b-tr">
+                <div class="label">Guest #1:  </div>
+                <div class="val text-left" style="text-align: left">
+                    First Name:  <strong></strong><br>
+                    Last Name:  <strong></strong><br>
+                    Email:  <strong></strong><br>
+                    Phone:  <strong></strong><br>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+    </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-05-11 12:55:44] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Pulkith Dhingra has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/www.traviaana.com\/images\/avatar.png\" alt=\"Pulkith Dhingra\">",
+    "link": "https:\/\/www.traviaana.com\/admin\/module\/report\/booking",
+    "idNotification": "af2a30f2-e383-4a07-9f62-35edcfa9719d",
+    "socket": null
+}  
+[2025-05-11 12:55:44] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Pulkith Dhingra has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/www.traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/www.traviaana.com\/vendor\/booking-report",
+    "idNotification": "be1ec66c-a577-4351-83d3-adcaaa5400e7",
+    "userId": 6,
+    "socket": null
+}  
+[2025-05-11 13:08:12] production.DEBUG: From: Traviaana <support@traviaana.com>
+To: support@traviaana.com
+Subject: [Traviaana] New booking has been made
+MIME-Version: 1.0
+Date: Sun, 11 May 2025 13:08:12 +0000
+Message-ID: <8ffc2bb20d21dd62df9a60a3667c56de@traviaana.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5191FA;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Traviaana</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello Administrator</strong></h3>
+                    <p>New booking has been made</p>
+                
+            <div class="b-panel-title">Hotel information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#5</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Processing</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Hotel name</td>
+            <td class="val">
+                <a href="https://www.traviaana.com/hotel/taj-exotica">Taj Exotica</a>
+            </td>
+        </tr>
+        <tr>
+                            <td class="label">Address</td>
+                <td class="val">
+                    Radha Nagar Beach Number 7, Havelock Island
+                </td>
+                    </tr>
+                    <tr>
+                <td class="label">Check in</td>
+                <td class="val">05/11/2025</td>
+            </tr>
+            <tr>
+                <td class="label">Check out:</td>
+                <td class="val">
+                    05/12/2025
+                </td>
+            </tr>
+            <tr>
+                <td class="label">Nights:</td>
+                <td class="val">
+                    1
+                </td>
+            </tr>
+        
+                    <tr>
+                <td class="label">Adults:</td>
+                <td class="val">
+                    <strong>1</strong>
+                </td>
+            </tr>
+                        <tr>
+            <td class="label">Pricing</td>
+            <td class="val">
+                <table class="pricing-list" width="100%">
+                                                                                            <tr>
+                                <td class="label">Delux view * 1
+                                    :</td>
+                                <td class="val no-r-padding">
+                                    <strong>₹3200</strong>
+                                </td>
+                            </tr>
+                                                                
+                    
+                                                                                                                        <tr>
+                                <td class="label">
+                                    Service fee
+                                    <i class="icofont-info-circle" data-toggle="tooltip" data-placement="top" title="This helps us run our platform and offer services like 24/7 support on your trip."></i>
+                                                                    </td>
+                                <td class="val">
+                                                                            ₹100
+                                                                    </td>
+                            </tr>
+                                                                                </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹3300</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">₹3300</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://www.traviaana.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">Pulkith</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">Dhingra</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">pulkithbiz@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">9380956202</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val">GOAL GHAR</div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val">PHONIEX BAY</div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val">PORT BLAIR</div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val">ANDAMAN &amp; NICOBAR ISLANDS</div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val">744101</div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">India</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-05-11 13:08:12] production.DEBUG: From: Traviaana <support@traviaana.com>
+To: Traviaana <admin@traviaana.com>
+Subject: [Traviaana] Your service got new booking
+MIME-Version: 1.0
+Date: Sun, 11 May 2025 13:08:12 +0000
+Message-ID: <61b1d86f604568bf7327edfd24661272@traviaana.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5191FA;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Traviaana</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello Pulkit</strong></h3>
+                    <p>Your service has new booking</p>
+                
+            <div class="b-panel-title">Hotel information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#5</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Processing</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Hotel name</td>
+            <td class="val">
+                <a href="https://www.traviaana.com/hotel/taj-exotica">Taj Exotica</a>
+            </td>
+        </tr>
+        <tr>
+                            <td class="label">Address</td>
+                <td class="val">
+                    Radha Nagar Beach Number 7, Havelock Island
+                </td>
+                    </tr>
+                    <tr>
+                <td class="label">Check in</td>
+                <td class="val">05/11/2025</td>
+            </tr>
+            <tr>
+                <td class="label">Check out:</td>
+                <td class="val">
+                    05/12/2025
+                </td>
+            </tr>
+            <tr>
+                <td class="label">Nights:</td>
+                <td class="val">
+                    1
+                </td>
+            </tr>
+        
+                    <tr>
+                <td class="label">Adults:</td>
+                <td class="val">
+                    <strong>1</strong>
+                </td>
+            </tr>
+                        <tr>
+            <td class="label">Pricing</td>
+            <td class="val">
+                <table class="pricing-list" width="100%">
+                                                                                            <tr>
+                                <td class="label">Delux view * 1
+                                    :</td>
+                                <td class="val no-r-padding">
+                                    <strong>₹3200</strong>
+                                </td>
+                            </tr>
+                                                                
+                    
+                                                                                                                        <tr>
+                                <td class="label">
+                                    Service fee
+                                    <i class="icofont-info-circle" data-toggle="tooltip" data-placement="top" title="This helps us run our platform and offer services like 24/7 support on your trip."></i>
+                                                                    </td>
+                                <td class="val">
+                                                                            ₹100
+                                                                    </td>
+                            </tr>
+                                                                                </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹3300</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">₹3300</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://www.traviaana.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">Pulkith</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">Dhingra</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">pulkithbiz@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">9380956202</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val">GOAL GHAR</div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val">PHONIEX BAY</div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val">PORT BLAIR</div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val">ANDAMAN &amp; NICOBAR ISLANDS</div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val">744101</div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">India</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-05-11 13:08:12] production.DEBUG: From: Traviaana <support@traviaana.com>
+To: pulkithbiz@gmail.com
+Subject: Thank you for booking with us
+MIME-Version: 1.0
+Date: Sun, 11 May 2025 13:08:12 +0000
+Message-ID: <783855da699f0eabc39f8667820afca5@traviaana.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--<![endif]-->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' id='google-font-css-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600' type='text/css' media='all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5191FA;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class="b-email-wrap">
+            <div class="" style="">
+    <div class="b-container">
+        <div class="b-header">
+                        <h1 class="site-title">Traviaana</h1>
+        </div>
+    </div>
+</div>
+
+            
+    <div class="b-container">
+        <div class="b-panel">
+                                <h3 class="email-headline"><strong>Hello Pulkith</strong></h3>
+                    <p>Thank you for booking with us. Here are your booking information:</p>
+                
+            <div class="b-panel-title">Hotel information</div>
+<div class="b-table-wrap">
+    <table class="b-table" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="label">Booking Number</td>
+            <td class="val">#5</td>
+        </tr>
+        <tr>
+            <td class="label">Booking Status</td>
+            <td class="val">Processing</td>
+        </tr>
+                    <tr>
+                <td class="label">Payment method</td>
+                <td class="val">Offline Payment</td>
+            </tr>
+                        <tr>
+            <td class="label">Hotel name</td>
+            <td class="val">
+                <a href="https://www.traviaana.com/hotel/taj-exotica">Taj Exotica</a>
+            </td>
+        </tr>
+        <tr>
+                            <td class="label">Address</td>
+                <td class="val">
+                    Radha Nagar Beach Number 7, Havelock Island
+                </td>
+                    </tr>
+                    <tr>
+                <td class="label">Check in</td>
+                <td class="val">05/11/2025</td>
+            </tr>
+            <tr>
+                <td class="label">Check out:</td>
+                <td class="val">
+                    05/12/2025
+                </td>
+            </tr>
+            <tr>
+                <td class="label">Nights:</td>
+                <td class="val">
+                    1
+                </td>
+            </tr>
+        
+                    <tr>
+                <td class="label">Adults:</td>
+                <td class="val">
+                    <strong>1</strong>
+                </td>
+            </tr>
+                        <tr>
+            <td class="label">Pricing</td>
+            <td class="val">
+                <table class="pricing-list" width="100%">
+                                                                                            <tr>
+                                <td class="label">Delux view * 1
+                                    :</td>
+                                <td class="val no-r-padding">
+                                    <strong>₹3200</strong>
+                                </td>
+                            </tr>
+                                                                
+                    
+                                                                                                                        <tr>
+                                <td class="label">
+                                    Service fee
+                                    <i class="icofont-info-circle" data-toggle="tooltip" data-placement="top" title="This helps us run our platform and offer services like 24/7 support on your trip."></i>
+                                                                    </td>
+                                <td class="val">
+                                                                            ₹100
+                                                                    </td>
+                            </tr>
+                                                                                </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Total</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹3300</strong></td>
+        </tr>
+        <tr>
+            <td class="label fsz21">Paid</td>
+            <td class="val fsz21"><strong style="color: #FA5636">₹0</strong></td>
+        </tr>
+                    <tr>
+                <td class="label fsz21">Remain</td>
+                <td class="val fsz21"><strong style="color: #FA5636">₹3300</strong></td>
+            </tr>
+            </table>
+</div>
+<div class="text-center mt20">
+    <a href="https://www.traviaana.com/user/booking-history" target="_blank" class="btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class="b-panel">
+    <div class="b-panel-title">Customer information</div>
+    <div class="b-table-wrap">
+        <div class="b-table b-table-div">
+            <div class="info-first-name b-tr">
+                <div class="label">First name</div>
+                <div class="val">Pulkith</div>
+            </div>
+            <div class="info-last-name b-tr" style="clear: both">
+                <div class="label">Last name</div>
+                <div class="val">Dhingra</div>
+            </div>
+            <div class="info-email b-tr">
+                <div class="label">Email</div>
+                <div class="val">pulkithbiz@gmail.com</div>
+            </div>
+            <div class="info-phone b-tr">
+                <div class="label">Phone</div>
+                <div class="val">9380956202</div>
+            </div>
+            <div class="info-address b-tr">
+                <div class="label">Address line 1</div>
+                <div class="val">GOAL GHAR</div>
+            </div>
+            <div class="info-address2 b-tr">
+                <div class="label">Address line 2</div>
+                <div class="val">PHONIEX BAY</div>
+            </div>
+            <div class="info-city b-tr">
+                <div class="label">City</div>
+                <div class="val">PORT BLAIR</div>
+            </div>
+            <div class="info-state b-tr">
+                <div class="label">State/Province/Region</div>
+                <div class="val">ANDAMAN &amp; NICOBAR ISLANDS</div>
+            </div>
+            <div class="info-zip-code b-tr">
+                <div class="label">ZIP code/Postal code</div>
+                <div class="val">744101</div>
+            </div>
+            <div class="info-country b-tr">
+                <div class="label">Country</div>
+                <div class="val">India</div>
+            </div>
+            <div class="info-notes b-tr">
+                <div class="label">Special Requirements</div>
+                <div class="val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="b-footer" style="margin-top: 0px;">
+    <div class="b-container">
+        
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2025-05-11 13:08:12] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Pulkith Dhingra has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/www.traviaana.com\/images\/avatar.png\" alt=\"Pulkith Dhingra\">",
+    "link": "https:\/\/www.traviaana.com\/admin\/module\/report\/booking",
+    "idNotification": "50d3a240-a918-4310-b5a7-6bae8b510906",
+    "socket": null
+}  
+[2025-05-11 13:08:12] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Pulkith Dhingra has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/www.traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/www.traviaana.com\/vendor\/booking-report",
+    "idNotification": "9d25b738-d6a0-449e-892f-7bdccc36dcb9",
+    "userId": 6,
+    "socket": null
+}  

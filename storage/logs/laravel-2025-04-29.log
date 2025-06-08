@@ -1,0 +1,142 @@
+[2025-04-29 07:29:24] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=19",
+    "idNotification": "82dc506e-3665-4d3f-879a-6201c6e9e2ac",
+    "socket": null
+}  
+[2025-04-29 07:29:24] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=19",
+    "idNotification": "541f1f5c-b800-4141-8d91-a1892cbf9c9a",
+    "userId": 1,
+    "socket": null
+}  
+[2025-04-29 07:31:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=19",
+    "idNotification": "2b008139-cba8-4baa-a5f5-19a7ed7f8cdf",
+    "socket": null
+}  
+[2025-04-29 07:31:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=19",
+    "idNotification": "de40a084-383a-4e89-80f0-13144b9d26b5",
+    "userId": 1,
+    "socket": null
+}  
+[2025-04-29 07:32:54] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=19",
+    "idNotification": "80e1396b-c588-49b2-b25b-ddca20bd6f0b",
+    "socket": null
+}  
+[2025-04-29 07:32:54] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Andaman Excursion was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=19",
+    "idNotification": "793d27ce-417d-4a3f-ac39-547db1b02aea",
+    "userId": 1,
+    "socket": null
+}  
+[2025-04-29 17:52:56] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Family Fun in Paradise was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=18",
+    "idNotification": "520c217d-0987-4742-916a-342534edb1e2",
+    "socket": null
+}  
+[2025-04-29 17:52:56] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Family Fun in Paradise was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=18",
+    "idNotification": "48f60f4e-e710-439b-bbe2-858436fa14fc",
+    "userId": 1,
+    "socket": null
+}  
+[2025-04-29 17:55:33] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Beat the Heat was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=17",
+    "idNotification": "cc4d4c50-7179-43e3-932c-9f5993011227",
+    "socket": null
+}  
+[2025-04-29 17:55:33] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Beat the Heat was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=17",
+    "idNotification": "ff764fa3-d16e-449c-af11-ed126787e1a4",
+    "userId": 1,
+    "socket": null
+}  
+[2025-04-29 18:13:22] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created tour Best of Andaman",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour\/edit\/20",
+    "idNotification": "3b7fcae9-a93f-48fd-9985-f141080dc035",
+    "socket": null
+}  
+[2025-04-29 18:13:45] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "8521d53e-2176-4b4e-988f-b56213139c04",
+    "socket": null
+}  
+[2025-04-29 18:28:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "e1e52c44-34d6-44e9-ba18-784dc1c25193",
+    "socket": null
+}  
+[2025-04-29 18:29:10] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "767ab49e-db2c-4281-b31c-eaadb32aea9e",
+    "socket": null
+}  
+[2025-04-29 18:29:39] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/tour?id=20",
+    "idNotification": "6f03cfbc-8fc7-4251-afe2-e489753a2be9",
+    "socket": null
+}  
+[2025-04-29 18:29:39] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Best of Andaman was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/tour?id=20",
+    "idNotification": "6072c8c0-6a65-4ba3-bc80-68b68713ede3",
+    "userId": 1,
+    "socket": null
+}  
+[2025-04-29 19:10:18] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created space Sea Edge Homestay",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/space\/edit\/12",
+    "idNotification": "92282543-6a65-4937-920f-b95d5be5d45b",
+    "socket": null
+}  

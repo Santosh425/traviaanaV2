@@ -1,0 +1,1 @@
+<?php echo $__env->make( "Tour::frontend/booking/set-paid-modal" , \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/u529938690/domains/traviaana.com/public_html/themes/Base/Flight/Views/frontend/booking/set-paid-modal.blade.php ENDPATH**/ ?>

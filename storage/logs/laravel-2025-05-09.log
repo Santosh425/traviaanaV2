@@ -1,0 +1,93 @@
+[2025-05-09 08:26:04] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "You have just gotten a new Subscriber",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/user\/subscriber",
+    "idNotification": "4ffbe33f-0d34-43c6-855c-81d8ed6638b5",
+    "socket": null
+}  
+[2025-05-09 18:22:44] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Parian Holiday Villas was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=43",
+    "idNotification": "00233d6a-a599-4c19-90fd-b792258396ac",
+    "socket": null
+}  
+[2025-05-09 18:22:44] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Parian Holiday Villas was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/hotel?id=43",
+    "idNotification": "a90aef51-65b1-40a2-b7c3-3da73056ec09",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-09 18:25:09] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Taj Exotica was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=44",
+    "idNotification": "141c91ad-ae9e-4df6-85fa-4c15b5fd3eb7",
+    "socket": null
+}  
+[2025-05-09 18:25:09] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Taj Exotica was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/hotel?id=44",
+    "idNotification": "7bdd4f0a-2bb1-4f3a-b78a-d40a4a117be6",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-09 18:29:28] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "EnVision Hotel was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=41",
+    "idNotification": "d32cfd0b-1ed2-4bae-9816-2da449866fca",
+    "socket": null
+}  
+[2025-05-09 18:29:28] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-3] with payload:
+{
+    "message": "EnVision Hotel was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/traviaana.com\/user\/hotel?id=41",
+    "idNotification": "3329673a-d510-45f1-aa82-270493c2806f",
+    "userId": 3,
+    "socket": null
+}  
+[2025-05-09 18:56:33] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Stanford was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=37",
+    "idNotification": "098ff596-6227-4b38-9c76-941ef0aa7fbd",
+    "socket": null
+}  
+[2025-05-09 18:56:33] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Hotel Stanford was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/traviaana.com\/user\/hotel?id=37",
+    "idNotification": "4e743282-d002-47ee-8170-26ce0fd52872",
+    "userId": 5,
+    "socket": null
+}  
+[2025-05-09 18:57:32] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Stanford was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/hotel?id=37",
+    "idNotification": "2520c5d7-d553-4094-a3c1-5f5e156ebc63",
+    "socket": null
+}  
+[2025-05-09 18:57:32] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Hotel Stanford was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/traviaana.com\/user\/hotel?id=37",
+    "idNotification": "db02c243-7ac3-4158-b441-b240811faa9b",
+    "userId": 5,
+    "socket": null
+}  

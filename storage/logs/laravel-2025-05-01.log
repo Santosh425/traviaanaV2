@@ -1,0 +1,66 @@
+[2025-05-01 19:20:07] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created boat ITT MAJESTIC",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat\/edit\/14",
+    "idNotification": "9f20c330-4020-4c42-9a0e-ba8f68197c5c",
+    "socket": null
+}  
+[2025-05-01 19:30:11] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created boat Nautica",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat\/edit\/15",
+    "idNotification": "b18defca-29d5-48a3-a27b-62d516c6a2a1",
+    "socket": null
+}  
+[2025-05-01 19:31:36] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Nautica was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat?id=15",
+    "idNotification": "59086b20-62ee-4e10-9f1d-e0faeda5efaf",
+    "socket": null
+}  
+[2025-05-01 19:31:36] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Nautica was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/boat?id=15",
+    "idNotification": "5e25c38d-411c-484c-9d3b-a5ec1388f859",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-01 19:32:00] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "ITT MAJESTIC was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat?id=14",
+    "idNotification": "35146b4c-9a19-40fc-bf61-6aaf015768ba",
+    "socket": null
+}  
+[2025-05-01 19:32:00] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "ITT MAJESTIC was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/boat?id=14",
+    "idNotification": "55efda76-f0fd-43aa-99bd-a7d59dcaf1b9",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-01 19:39:11] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created boat Makruzz",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat\/edit\/16",
+    "idNotification": "39b6f883-25dd-4ef8-9bbe-903c27711aea",
+    "socket": null
+}  
+[2025-05-01 19:48:56] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created boat Makruzz Gold",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat\/edit\/17",
+    "idNotification": "b2a9e749-774b-4b82-805d-4cc503749a92",
+    "socket": null
+}  

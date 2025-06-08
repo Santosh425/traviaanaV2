@@ -1,0 +1,65 @@
+[2025-05-02 06:08:05] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created boat Green Ocean 1",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/boat\/edit\/18",
+    "idNotification": "ba4288da-1aed-40d0-8c0d-fb156e1fb187",
+    "socket": null
+}  
+[2025-05-02 07:53:18] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created car Mahindra Thar",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/car\/edit\/14",
+    "idNotification": "75389ba4-e31a-4849-9e95-be225890798e",
+    "socket": null
+}  
+[2025-05-02 07:53:52] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Mahindra Thar was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/car?id=14",
+    "idNotification": "aba4bb6f-16d9-40db-aa43-e2c39a77a2f5",
+    "socket": null
+}  
+[2025-05-02 07:53:52] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Mahindra Thar was updated to Publish by Traviaana",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "https:\/\/traviaana.com\/user\/car?id=14",
+    "idNotification": "4ff1e3fc-6fd6-4270-859f-08bebfe04b03",
+    "userId": 1,
+    "socket": null
+}  
+[2025-05-02 08:07:52] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created car Hyundai Creta",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/car\/edit\/15",
+    "idNotification": "7f4d4775-b557-4586-9116-6c432864665e",
+    "socket": null
+}  
+[2025-05-02 08:32:01] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created car Swift",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/car\/edit\/16",
+    "idNotification": "941025d3-8f93-40b3-b96a-b039459cd09e",
+    "socket": null
+}  
+[2025-05-02 08:56:27] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created car BMW",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/car\/edit\/17",
+    "idNotification": "03691332-e9db-45fb-b9a3-86973ea876e9",
+    "socket": null
+}  
+[2025-05-02 09:42:23] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Traviaana has created car Audi A6",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/traviaana.com\/images\/avatar.png\" alt=\"Traviaana\">",
+    "link": "https:\/\/traviaana.com\/admin\/module\/car\/edit\/18",
+    "idNotification": "fbc6c384-6154-4a36-a934-8ff9d079c73a",
+    "socket": null
+}  
