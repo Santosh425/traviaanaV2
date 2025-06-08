@@ -127,7 +127,7 @@
                 <?php echo $__env->make( 'Layout::parts.user.footer' , \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
             </div>
         </div>
-        <!-- <div class="modal" tabindex="-1" id="modal_booking_detail">
+        <div class="modal" tabindex="-1" id="modal_booking_detail">
             <div class="modal-dialog modal-lg">
                 <div class="modal-content">
                     <div class="modal-header">
@@ -144,7 +144,7 @@
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
 <script src="<?php echo e(asset('libs/filerobot-image-editor/filerobot-image-editor.min.js?_ver='.config('app.asset_version'))); ?>"></script>
