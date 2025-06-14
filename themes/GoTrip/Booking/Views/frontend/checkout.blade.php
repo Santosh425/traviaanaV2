@@ -15,7 +15,7 @@
                                 {{__('to manage your bookings on the go!')}}
                             </div>
                         @endif
-                        <h2 class="text-22 fw-500">{{__('Let us know who you are')}}</h2>
+                        <h2 class="text-22 fw-500">{{__('Add traveller details (Primary traveller)')}}</h2>
                          <div class="booking-form ">
                              @include ($service->checkout_form_file ?? 'Booking::frontend/booking/checkout-form',['disable_lazyload'=>1])
                              @if(!empty($token = request()->input('token')))

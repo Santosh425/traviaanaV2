@@ -36,6 +36,33 @@
                     <hr>
                 </div>
             @endif
+            {{-- gender --}}
+            <div class="col-md-6 field-country">
+                <div class="form-input">
+                    <select name="gender" class="form-control" required>
+                        <option value="">{{ __('-- Select --') }}</option>
+                        <option value="Male">{{ __('Male') }}</option>
+                        <option value="Female">{{ __('Female') }}</option>
+                        <option value="other">{{ __('Other') }}</option>
+                    </select>
+                    <label class="lh-1 text-16 text-light-1">
+                        {{ __('Gender') }} <span class="required">*</span>
+                    </label>
+                </div>
+            </div>
+            {{-- ager group  --}}
+            <div class="col-md-6 field-country">
+                <div class="form-input">
+                    <select name="age_group" class="form-control" required>
+                        <option value="">{{ __('-- Select --') }}</option>
+                        <option value="Adult">{{ __('Adult') }}</option>
+                        <option value="Kid">{{ __('Kid') }}</option>
+                    </select>
+                    <label class="lh-1 text-16 text-light-1">
+                        {{ __('Age Group') }} <span class="required">*</span>
+                    </label>
+                </div>
+            </div>
             <div class="col-md-6">
                 <div class="form-input ">
                     <input type="text" class="form-control" value="{{ $user->first_name ?? '' }}" name="first_name">
@@ -53,7 +80,8 @@
             <div class="col-md-6 field-email">
                 <div class="form-input ">
                     <input type="email" class="form-control" value="{{ $user->email ?? '' }}" name="email">
-                    <label class="lh-1 text-16 text-light-1">{{ __('Email') }} <span class="required">*</span></label>
+                    <label class="lh-1 text-16 text-light-1">{{ __('Email') }} <span
+                            class="required">*</span></label>
 
                 </div>
             </div>
@@ -124,7 +152,7 @@
     </div>
     @if (($booking->total_guests ?? 1) > 1)
         <div class="col-12 mt-30">
-            <h5>{{ __('Additional Customers') }}</h5>
+
             <div id="extraCustomersWrapper"></div>
         </div>
     @endif
@@ -157,7 +185,7 @@
                 </div>
                 <div class="text-14 lh-10 text-light-1 ml-10">{{ __('I have read and accept the') }} <a
                         target="_blank"
-                        href="{{ get_page_url($term_conditions) }}">{{ __('terms and conditions') }}</a></div>
+                        href="https://traviaana.com/page/terms-of-service-1">{{ __('terms and conditions') }}</a></div>
 
             </div>
         </div>
@@ -181,14 +209,46 @@
 
         function getExtraCustomerHtml(index) {
             return `
+
+
         <div class="extra-customer-section border p-20 rounded mb-20" data-index="${index}">
             <div class="d-flex justify-content-between align-items-center mb-10">
-                <strong>{{ __('Customer') }} #${index + 2}</strong>
+                <strong>{{ __('Traveller') }} ${index + 2}</strong>
             </div>
             <div class="row y-gap-20">
+
+               <div class="col-md-6 field-country">
+                <div class="form-input">
+                    <select name="extra_customers[${index}][gender]" class="form-control" required>
+                        <option value="">{{ __('-- Select --') }}</option>
+                        <option value="Male">{{ __('Male') }}</option>
+                        <option value="Female">{{ __('Female') }}</option>
+                        <option value="other">{{ __('Other') }}</option>
+                    </select>
+                    <label class="lh-1 text-16 text-light-1">
+                        {{ __('Gender') }} <span class="required">*</span>
+                    </label>
+                </div>
+               </div>
+
+               <div class="col-md-6 field-country">
+                <div class="form-input">
+                    <select name="extra_customers[${index}][age_group]" class="form-control" required>
+                        <option value="">{{ __('-- Select --') }}</option>
+                        <option value="Adult">{{ __('Adult') }}</option>
+                        <option value="Kid">{{ __('Kid') }}</option>
+          
+                    </select>
+                    <label class="lh-1 text-16 text-light-1">
+                        {{ __('Age Group') }} <span class="required">*</span>
+                    </label>
+                </div>
+               </div>
+
+
                 <div class="col-md-6">
                     <div class="form-input">
-                        <input type="text" name="extra_customers[${index}][first_name]" class="form-control" />
+                        <input type="text" name="extra_customers[${index}][first_name]" class="form-control"  />
                         <label class="lh-1 text-16 text-light-1">{{ __('First Name') }}</label>
                     </div>
                 </div>

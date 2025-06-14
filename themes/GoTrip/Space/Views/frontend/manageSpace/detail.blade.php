@@ -3,7 +3,6 @@
     <div class="row y-gap-20 justify-between items-end pb-20 lg:pb-40 md:pb-20">
         <div class="col-auto">
             <h1 class="text-30 lh-14 fw-600">{{$row->id ? __('Edit: ').$row->title : __('Add new space')}}</h1>
-            <div class="text-15 text-light-1">{{ __('Lorem ipsum dolor sit amet, consectetur.') }}</div>
         </div>
         <div class="col-auto">
 

@@ -3,7 +3,6 @@
     <div class="row y-gap-20 justify-between items-end pb-20 lg:pb-40 md:pb-20">
         <div class="col-auto">
             <h1 class="text-30 lh-14 fw-600">{{__("Manage Seats")}}</h1>
-            <div class="text-15 text-light-1">{{ __('Lorem ipsum dolor sit amet, consectetur.') }}</div>
         </div>
         <div class="col-auto">
             <a href="{{route('flight.vendor.edit',['id'=>$currentFlight->id])}}" class="btn btn-info"><i class="fa fa-hand-o-right"></i> {{__("Back to flight")}}</a>

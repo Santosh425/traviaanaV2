@@ -28,8 +28,8 @@ $theme = \Modules\Theme\ThemeManager::currentProvider();
     <div class="widgets-right flex-shrink-0 d-flex">
         @if(!isPro())
             <div class="mr-3">
-                <a href="#" data-toggle="modal" data-target="#upgrade-pro" class="btn btn-info">
-                    <img width="22px" class="mr-3" src="{{asset('/images/premium.png')}}" alt="Upgrade">{{__("Upgrade")}}</a>
+                {{-- <a href="#" data-toggle="modal" data-target="#upgrade-pro" class="btn btn-info">
+                    <img width="22px" class="mr-3" src="{{asset('/images/premium.png')}}" alt="Upgrade">{{__("Upgrade")}}</a> --}}
             </div>
         @else
             <div class="mr-3  d-flex align-items-center">

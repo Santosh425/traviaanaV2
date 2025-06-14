@@ -7,14 +7,14 @@
             @if(!empty($informationRole))
                 {{__("Customer Information")}}
             @else
-                {{__('Personal Information')}}
+                {{__('Customer Information')}}
             @endif
         </a>
     </li>
     @if(count($booking->passengers))
         <li class="nav-item">
             <a class="nav-link" data-toggle="tab" data-bs-toggle="tab" href="#booking-guests-{{$booking->id}}">
-                {{__('Guests Information')}}
+                {{__('Traveller Information')}}
             </a>
         </li>
     @endif

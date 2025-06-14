@@ -182,14 +182,33 @@ class BookingController extends \App\Http\Controllers\Controller
             }
         }
 
-        $messages = [];
+        // $messages = [];
+        $messages = [
+            'extra_customers.*.first_name.required' => 'The first name for additional Traveller is required.',
+            'extra_customers.*.last_name.required' => 'The last name for additional Traveller is required.',
+            'extra_customers.*.email.required' => 'The email for additional Traveller is required.',
+            'extra_customers.*.phone.required' => 'The phone for additional Traveller is required.',
+            'extra_customers.*.gender.required' => 'The gender for additional Traveller is required.',
+            'extra_customers.*.age_group.required' => 'The Age group for additional Traveller is required.',
+
+        ];
+
+
         $rules = [
+            'gender'          => 'required',
+            'age_group'       => 'required',
             'first_name'      => 'required|string|max:255',
             'last_name'       => 'required|string|max:255',
             'email'           => 'required|string|email|max:255',
             'phone'           => 'required|string|max:255',
             'country'         => 'required',
             'term_conditions' => 'required',
+            'extra_customers.*.gender' => 'required',
+            'extra_customers.*.age_group' => 'required',
+            'extra_customers.*.first_name' => 'required',
+            'extra_customers.*.last_name' => 'required',
+            'extra_customers.*.email' => 'required',
+            'extra_customers.*.phone' => 'required',
         ];
 
 
@@ -435,6 +454,8 @@ class BookingController extends \App\Http\Controllers\Controller
             'last_name'  => $request->input('last_name', ''),
             'email'      => $request->input('email', ''),
             'phone'      => $request->input('phone', ''),
+            'gender'      => $request->input('gender', ''),
+            'age_group'      => $request->input('age_group', ''),
         ];
         $allPassengersInput[] = $mainPassengerInput;
 
@@ -445,6 +466,8 @@ class BookingController extends \App\Http\Controllers\Controller
                 'last_name'  => $extra['last_name'] ?? '',
                 'email'      => $extra['email'] ?? '',
                 'phone'      => $extra['phone'] ?? '',
+                'gender'      => $extra['gender'] ?? '',
+                'age_group'      => $extra['age_group'] ?? '',
             ];
         }
 

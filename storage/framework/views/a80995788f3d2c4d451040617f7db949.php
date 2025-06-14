@@ -3,7 +3,7 @@ $passengers = $booking->passengers;
 if(!count($passengers)) return;
 ?>
 <div class="b-panel">
-    <div class="b-panel-title"><?php echo e(__("Tickets / Guests Information:")); ?></div>
+    <div class="b-panel-title"><?php echo e(__("Tickets / Traveller Information:")); ?></div>
     <div class="b-table-wrap">
         <div class="b-table b-table-div">
             <?php $__currentLoopData = $passengers; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $i=>$passenger): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
